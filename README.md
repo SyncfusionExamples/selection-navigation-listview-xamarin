@@ -2,7 +2,12 @@
 
 You can apply the selection color before navigating to another page using [thread](https://docs.microsoft.com/en-us/xamarin/essentials/main-thread) in Xamarin.Forms [SfListView](https://help.syncfusion.com/xamarin/listview/overview). 
 
+You can also refer  the following article.
+
+https://www.syncfusion.com/kb/11684/how-to-apply-listview-selected-item-color-in-xamarin-forms-navigation-sflistview
+
 **XAML**
+
 Bind [SfListView.SelectionChangedCommand](https://help.syncfusion.com/cr/cref_files/xamarin/Syncfusion.SfListView.XForms~Syncfusion.ListView.XForms.SfListView~SelectionChangedCommand.html) to navigate to the next page.
 ``` xml
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
